@@ -1,0 +1,28 @@
+{
+  "name": "wait-interactive",
+  "version": "1.0.0",
+  "description": "Await the return of this function in order to guarantee that everything that goes after will be running after the loading of the document DOM.",
+  "main": "wait-for-interactive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegovgsilva95/nodejs-wait-interactive.git"
+  },
+  "keywords": [
+    "async",
+    "await",
+    "interactive",
+    "readyState",
+    "document",
+    "dom",
+    "contents"
+  ],
+  "author": "Diego V. G. Silva",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/diegovgsilva95/nodejs-wait-interactive/issues"
+  },
+  "homepage": "https://github.com/diegovgsilva95/nodejs-wait-interactive#readme"
+}
